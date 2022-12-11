@@ -1,0 +1,500 @@
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Santa Cruz County
+answer:<extra_id_10><extra_id_8> Oregon Angeles National Forest
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Marion County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Eldorado National Forest
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Jersey<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa and Sonoma counties
+answer:<extra_id_10><extra_id_8> California Napa
+answer:<extra_id_10><extra_id_8> Colorado Grand Junction
+answer:<extra_id_10><extra_id_8> California Fresno
+answer:<extra_id_10><extra_id_8> California Napa County
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Silverado
+answer:<extra_id_10><extra_id_8> California Santa Ana
+answer:<extra_id_10><extra_id_8> California Shasta County
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado Hayman
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California El Sereno
+answer:<extra_id_10><extra_id_8> California Los Angeles County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Mendocino National Forest
+answer:<extra_id_10><extra_id_8> California Fresno
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sloughhouse
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sierra National Forest
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> California Santa Cruz County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa Valley
+answer:<extra_id_10><extra_id_8> Nevada Reno
+answer:<extra_id_10><extra_id_8> California Reno
+answer:<extra_id_10><extra_id_8> California Reno
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Vacaville
+answer:<extra_id_10><extra_id_8> California Vacaville
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sonoma County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Irvine
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Irvine
+answer:<extra_id_10><extra_id_8> California Irvine
+answer:<extra_id_10><extra_id_8> Colorado Cameron Pass
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Dakota Big Basin
+answer:<extra_id_10><extra_id_8> California Walker
+answer:<extra_id_10><extra_id_8> California Santa Cruz Island
+answer:<extra_id_10><extra_id_8> North Carolina Granby
+answer:<extra_id_10><extra_id_8> Nevada Reno
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> British Columbia<extra_id_4>
+answer:<extra_id_10><extra_id_8> British Columbia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Calabasas
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Mammoth Pool
+answer:<extra_id_10><extra_id_8> California August
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Mount Wilson Observatory
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sacramento
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles County
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California LA County
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Torrance
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington Carson
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California El Dorado County
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Fresno
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> West Coast<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Butte County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Santa Cruz Mountains
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Cherry Valley
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nevada<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Lake Tahoe
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Walbridge
+answer:<extra_id_10><extra_id_8> California De Luz
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Lake Tahoe
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Fremont Canyon
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Orange County
+answer:<extra_id_10><extra_id_8> California Yorba Linda
+answer:<extra_id_10><extra_id_8> California Fire Area
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Yorba Linda
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Irvine
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Yorba Linda
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Shasta County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles County
+answer:<extra_id_10><extra_id_8> California Ventura County
+answer:<extra_id_10><extra_id_8> British Columbia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nevada<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Oakland
+answer:<extra_id_10><extra_id_8> California Sonoma County
+answer:<extra_id_10><extra_id_8> Nevada Fort Carson
+answer:<extra_id_10><extra_id_8> California San Gabriel Mission
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Southern California
+answer:<extra_id_10><extra_id_8> California Orange County
+answer:<extra_id_10><extra_id_8> Nevada Reno
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Southern California
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles County
+answer:<extra_id_10><extra_id_8> California San Bernardino County
+answer:<extra_id_10><extra_id_8> California Riverside
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Clackamas County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Mateo
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> Montana White River
+answer:<extra_id_10><extra_id_8> Oregon White River
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Santa Cruz County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado Cameron Peak
+answer:<extra_id_10><extra_id_8> Colorado Glenwood Springs
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Shasta
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Butte County
+answer:<extra_id_10><extra_id_8> California central and northern California
+answer:<extra_id_10><extra_id_8> California San Diego County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Fresno
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nevada Tahoe
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Medford
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Berry Creek
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Talent
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Silverton
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sierra Nevada
+answer:<extra_id_10><extra_id_8> Oregon Springfield
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington Evans Canyon
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Cherry Valley
+answer:<extra_id_10><extra_id_8> California Riverside County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Santa Rosa
+answer:<extra_id_10><extra_id_8> Utah<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah Mojave Desert
+answer:<extra_id_10><extra_id_8> California Shasta County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California St Helena
+answer:<extra_id_10><extra_id_8> California St Helena
+answer:<extra_id_10><extra_id_8> California Sonoma County
+answer:<extra_id_10><extra_id_8> California Shasta County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah Mojave Desert
+answer:<extra_id_10><extra_id_8> Utah Mojave Desert
+answer:<extra_id_10><extra_id_8> Arizona Tonto
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Irvine
+answer:<extra_id_10><extra_id_8> California Sierra Nevada
+answer:<extra_id_10><extra_id_8> California Fresno
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Big Sur
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Diego
+answer:<extra_id_10><extra_id_8> California Los Padres
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah Jordan
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah Millard County
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles County
+answer:<extra_id_10><extra_id_8> Utah Salt Lake City
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> South Dakota Elk Creek Road
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Sequoia County
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Scotts Valley
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Mateo
+answer:<extra_id_10><extra_id_8> California wine country
+answer:<extra_id_10><extra_id_8> California Sacramento
+answer:<extra_id_10><extra_id_8> Kentucky<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Mateo
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa County
+answer:<extra_id_10><extra_id_8> California Redlands
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Boulder Creek
+answer:<extra_id_10><extra_id_8> California Napa County
+answer:<extra_id_10><extra_id_8> California
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Camp Fire
+answer:<extra_id_10><extra_id_8> California Santa Rosa
+answer:<extra_id_10><extra_id_8> California North Bay
+answer:<extra_id_10><extra_id_8> California Davis, Woodland and Vacaville
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California North Beverly Park
+answer:<extra_id_10><extra_id_8> California Bonny Doon
+answer:<extra_id_10><extra_id_8> Texas Bonny Doon
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Easy Bay
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Santa Cruz Mountains
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa county
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa County
+answer:<extra_id_10><extra_id_8> California Napa County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Monterey County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Orange County
+answer:<extra_id_10><extra_id_8> California Orange County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Brea
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Orange County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California I-5
+answer:<extra_id_10><extra_id_8> Montana Bozeman
+answer:<extra_id_10><extra_id_8> California Riverside County
+answer:<extra_id_10><extra_id_8> California Cherry Valley
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California San Bernardino County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Monterey County
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Feather Falls
+answer:<extra_id_10><extra_id_8> Oregon Phoenix
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Molalla
+answer:<extra_id_10><extra_id_8> Montana Musselshell County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Silverton
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Fresno County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Oakland
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Texas Fort Davis
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado Boulder
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sonoma County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Napa, Sonoma, Shasta County
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> California Redding
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sonoma County
+answer:<extra_id_10><extra_id_8> Texas<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Mendocino County
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Bobcat Fire
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Beachie Creek
+answer:<extra_id_10><extra_id_8> California Fresno
+answer:<extra_id_10><extra_id_8> California Fresno
+answer:<extra_id_10><extra_id_8> California Orange County
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>

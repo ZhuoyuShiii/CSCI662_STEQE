@@ -1,0 +1,500 @@
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire CONCORD
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> West Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Vikings
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington Sedgwick
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Wyandotte County
+answer:<extra_id_10><extra_id_8> Tennessee<extra_id_4>
+answer:<extra_id_10><extra_id_8> Tennessee<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> Mississippi<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alaska Anchorage
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8> Kansas Wichita
+answer:<extra_id_10><extra_id_8> Missouri Missouri
+answer:<extra_id_10><extra_id_8> Illinois Missoula
+answer:<extra_id_10><extra_id_8> New Jersey Ocean County
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina Hanahan
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Iowa Davenport
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> South Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Broward County
+answer:<extra_id_10><extra_id_8> Tennessee Nashville
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Austin
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Kentucky Lexington
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire CONCORD
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Kansas City
+answer:<extra_id_10><extra_id_8> Missouri Kansas City
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> South Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alabama<extra_id_4>
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Maine Farmington
+answer:<extra_id_10><extra_id_8> Montana Missoula
+answer:<extra_id_10><extra_id_8> North Carolina Charlotte
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nebraska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Rhode Island<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Louisiana Shreveport
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Stanford
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Jersey Brick
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Rhode Island<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nebraska Lincoln
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York New York
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Maryland<extra_id_4>
+answer:<extra_id_10><extra_id_8> Vermont<extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Dakota Red River
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia Fredericksburg
+answer:<extra_id_10><extra_id_8> Virginia Stafford
+answer:<extra_id_10><extra_id_8> California San Jose
+answer:<extra_id_10><extra_id_8> California San Jose
+answer:<extra_id_10><extra_id_8> Pennsylvania Pittsburgh
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts Boston
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas El Paso
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Johnson County
+answer:<extra_id_10><extra_id_8> Texas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Rhode Island<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Austin
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Oklahoma Tulsa
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> North Dakota Bismarck
+answer:<extra_id_10><extra_id_8> Tennessee Nashville
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oklahoma Oklahoma
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alaska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> Texas Austin
+answer:<extra_id_10><extra_id_8> Oregon Salem
+answer:<extra_id_10><extra_id_8> Missouri
+answer:<extra_id_10><extra_id_8> Kansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Johnson County
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> West Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Marion County
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> Connecticut Stamford
+answer:<extra_id_10><extra_id_8> New York New York
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia Hanover
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Oklahoma Norman
+answer:<extra_id_10><extra_id_8> Indiana Allen County
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Connecticut Hamden
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> Connecticut Guilford
+answer:<extra_id_10><extra_id_8> Louisiana Louisiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia Fairfax
+answer:<extra_id_10><extra_id_8> Ohio<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Palm Beach County
+answer:<extra_id_10><extra_id_8> Tennessee<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Dakota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nebraska Lincoln
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> New Hampshire CONCORD
+answer:<extra_id_10><extra_id_8> New Jersey Toms River
+answer:<extra_id_10><extra_id_8> New Jersey<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio Portage
+answer:<extra_id_10><extra_id_8> Missouri Kansas City
+answer:<extra_id_10><extra_id_8> Texas Bexar County
+answer:<extra_id_10><extra_id_8> Wyoming Cheyenne
+answer:<extra_id_10><extra_id_8> South Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> SC Pickens County
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8> Texas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Alaska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas<extra_id_4>
+answer:<extra_id_10><extra_id_8> West Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire CONCORD
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona Scottsdale
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Connecticut Rocky Hill
+answer:<extra_id_10><extra_id_8> New Jersey New Jersey
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> Connecticut Hartford
+answer:<extra_id_10><extra_id_8> Alabama<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Gainesville
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah<extra_id_4>
+answer:<extra_id_10><extra_id_8> Kentucky Louisville
+answer:<extra_id_10><extra_id_8> Alaska Anchorage
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alaska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alaska<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah Tooele County
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Idaho Ada County
+answer:<extra_id_10><extra_id_8> Ontario Meridian
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Rawlins and Wallace counties
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oklahoma Oklahoma City
+answer:<extra_id_10><extra_id_8> Michigan Detroit
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Maryland<extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio Summit
+answer:<extra_id_10><extra_id_8> Florida Hillsborough County
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arkansas Fayetteville
+answer:<extra_id_10><extra_id_8> Missouri Boone
+answer:<extra_id_10><extra_id_8> Florida Miami
+answer:<extra_id_10><extra_id_8> Massachusetts Worcester
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York Sedgwick
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Columbus
+answer:<extra_id_10><extra_id_8> New Mexico<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois Peoria
+answer:<extra_id_10><extra_id_8> Illinois Plainfield
+answer:<extra_id_10><extra_id_8> New York Uptown
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> North Dakota<extra_id_4>
+answer:<extra_id_10><extra_id_8> New England<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alaska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Fulton County
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Connecticut<extra_id_4>
+answer:<extra_id_10><extra_id_8> China<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania Pittsburgh
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington Tacoma
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wisconsin Kenosha
+answer:<extra_id_10><extra_id_8> North Carolina Burnsville
+answer:<extra_id_10><extra_id_8> Oregon Salem
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Austin
+answer:<extra_id_10><extra_id_8> Maryland<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts Worcester
+answer:<extra_id_10><extra_id_8> Florida Miami
+answer:<extra_id_10><extra_id_8> Louisiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Maryland Prince William County
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Umatilla
+answer:<extra_id_10><extra_id_8> West Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alaska Anchorage
+answer:<extra_id_10><extra_id_8> Colorado Cheyenne
+answer:<extra_id_10><extra_id_8> Wyoming Cheyenne
+answer:<extra_id_10><extra_id_8> New York Westchester
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Mexico Albuquerque
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Santa Clara County
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado Bozeman
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Dakota<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Dakota<extra_id_4>
+answer:<extra_id_10><extra_id_8> South Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire Plymouth
+answer:<extra_id_10><extra_id_8> Texas Fort Worth
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> South Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nevada Las Vegas
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming Wyoming
+answer:<extra_id_10><extra_id_8> New York Cole County
+answer:<extra_id_10><extra_id_8> New York Columbia
+answer:<extra_id_10><extra_id_8> New Jersey<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Fulton
+answer:<extra_id_10><extra_id_8> Florida Pinellas County
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arkansas Little Rock
+answer:<extra_id_10><extra_id_8> Arkansas Fayetteville
+answer:<extra_id_10><extra_id_8> Wisconsin<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia Hampton Roads
+answer:<extra_id_10><extra_id_8> Ohio Portage
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Dakota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio Lawrence County
+answer:<extra_id_10><extra_id_8> Pennsylvania Philadelphia
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alaska Juneau
+answer:<extra_id_10><extra_id_8> Virginia Richmond
+answer:<extra_id_10><extra_id_8> North Dakota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> West Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alabama<extra_id_4>
+answer:<extra_id_10><extra_id_8> Alabama<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia Goochland
+answer:<extra_id_10><extra_id_8> New York New York
+answer:<extra_id_10><extra_id_8> Wisconsin<extra_id_4>
+answer:<extra_id_10><extra_id_8> Louisiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Diego
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Broward County
+answer:<extra_id_10><extra_id_8> Ohio<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania Lancaster
+answer:<extra_id_10><extra_id_8> Texas San Antonio
+answer:<extra_id_10><extra_id_8> West Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> West Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Santa Clara
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Wyoming<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Hampshire CONCORD
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Umatilla County
+answer:<extra_id_10><extra_id_8> New Hampshire<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wisconsin<extra_id_4>
+answer:<extra_id_10><extra_id_8> Tennessee<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Palm Beach County
+answer:<extra_id_10><extra_id_8> Idaho Boise
+answer:<extra_id_10><extra_id_8> Texas San Antonio
+answer:<extra_id_10><extra_id_8> Mississippi<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Fulton
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8> Pennsylvania Lancaster
+answer:<extra_id_10><extra_id_8> Wisconsin<extra_id_4>
+answer:<extra_id_10><extra_id_8> Louisiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Louisiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> South Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Montana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Gillette
+answer:<extra_id_10><extra_id_8> Connecticut<extra_id_4>
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Rapid City
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Orange County
+answer:<extra_id_10><extra_id_8> Notre Dame
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Vashon
+answer:<extra_id_10><extra_id_8> Rhode Island<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Tennessee<extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Nova Scotia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Nebraska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Fulton
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oklahoma Oklahoma City
+answer:<extra_id_10><extra_id_8> Missouri<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon<extra_id_4>
+answer:<extra_id_10><extra_id_8> Wisconsin<extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts Shrewsbury
+answer:<extra_id_10><extra_id_8> Montana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Orange County
+answer:<extra_id_10><extra_id_8> Virginia Richmond
+answer:<extra_id_10><extra_id_8> Wisconsin Milwaukee
+answer:<extra_id_10><extra_id_8> Kentucky<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Ohio Lawrence County
+answer:<extra_id_10><extra_id_8> Pennsylvania Montgomery County
+answer:<extra_id_10><extra_id_8> Michigan Detroit
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Flagler
+answer:<extra_id_10><extra_id_8> North Dakota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona<extra_id_4>
+answer:<extra_id_10><extra_id_8> Maine Biddeford
+answer:<extra_id_10><extra_id_8> Illinois Will County
+answer:<extra_id_10><extra_id_8> Ohio Crawford
+answer:<extra_id_10><extra_id_8> Alaska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas San Antonio
+answer:<extra_id_10><extra_id_8> Ohio COLUMBUS
+answer:<extra_id_10><extra_id_8> Wyoming
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania<extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois Kanawha
+answer:<extra_id_10><extra_id_8> Iowa<extra_id_4>
+answer:<extra_id_10><extra_id_8> Maryland Hampden
+answer:<extra_id_10><extra_id_8> Missouri Kansas
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina Sampson County
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> New England Aquarium
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Jersey<extra_id_4>
+answer:<extra_id_10><extra_id_8> Montana Missoula
+answer:<extra_id_10><extra_id_8> Indiana<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Mexico Do ⁇ a Ana County

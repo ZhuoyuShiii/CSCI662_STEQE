@@ -1,0 +1,500 @@
+answer:<extra_id_10><extra_id_8> North Dakota Fargo
+answer:<extra_id_10><extra_id_8> Australia Sydney
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Minnesota Stillwater
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Virginia Charlottesville
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Kansas City
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> New Jersey Asbury Park
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Sacramento
+answer:<extra_id_10><extra_id_8> Arizona Phoenix
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> New York<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Nevada Las Vegas
+answer:<extra_id_10><extra_id_8> Missouri St. Louis
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Illinois Cicero
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Texas Katy
+answer:<extra_id_10><extra_id_8> Missouri St. Louis
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Missouri St. Louis
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Washington Lafayette Park
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Pennsylvania Philadelphia
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Michigan Flint
+answer:<extra_id_10><extra_id_8> Nevada Las Vegas
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Virginia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania Bethel
+answer:<extra_id_10><extra_id_8> Ohio Bethel
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Jose
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Kentucky Floyd
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8> Kansas Kansas City
+answer:<extra_id_10><extra_id_8> California Irvine
+answer:<extra_id_10><extra_id_8> Massachusetts Boston
+answer:<extra_id_10><extra_id_8> Australia<extra_id_4>
+answer:<extra_id_10><extra_id_8> New Mexico Albuquerque
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Nevada Las Vegas
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Minnesota Houston
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> New York Valley Stream
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Massachusetts Cambridge
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> Colorado Arvada
+answer:<extra_id_10><extra_id_8>
+answer:<extra_id_10><extra_id_8> New York New York City Hall
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Minnesota MLK Blvd
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> New York Buffalo
+answer:<extra_id_10><extra_id_8> New York Buffalo
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Nebraska<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Springfield
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Harris County
+answer:<extra_id_10><extra_id_8> California Oakland
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8> Maryland<extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Sussex Brighton
+answer:<extra_id_10><extra_id_8> Sussex
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts Bethel
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Nevada Las Vegas
+answer:<extra_id_10><extra_id_8> Colorado Fort Collins
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> California Hollywood
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Wisconsin Milwaukee
+answer:<extra_id_10><extra_id_8> New York<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York Merrick
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Massachusetts Brockton
+answer:<extra_id_10><extra_id_8> New York<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> New York<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Michigan<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Tennessee Emmaus
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Missouri Springfield
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Addison
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Fort Lauderdale
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Iowa Cedar Rapids
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Colorado Norwood
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> New York<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> New York<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York New York
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> Maryland Montgomery County
+answer:<extra_id_10><extra_id_8> Wisconsin Madison
+answer:<extra_id_10><extra_id_8> Wisconsin Dane County
+answer:<extra_id_10><extra_id_8> New York Buffalo
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> New Jersey Hoboken
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Maryland Baltimore
+answer:<extra_id_10><extra_id_8> New York Buffalo
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> North Carolina Minneapolis
+answer:<extra_id_10><extra_id_8> Illinois St. Paul
+answer:<extra_id_10><extra_id_8> Wisconsin Madison
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota South Minneapolis
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Minnesota Rochester
+answer:<extra_id_10><extra_id_8>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Texas San Antonio
+answer:<extra_id_10><extra_id_8> Nassau County
+answer:<extra_id_10><extra_id_8> New York Midtown
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota George Floyd
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Illinois Kenosha
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio Cincinnati
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> North Dakota Fargo
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> South Carolina Charleston
+answer:<extra_id_10><extra_id_8> Texas El Paso
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Kentucky Louisville
+answer:<extra_id_10><extra_id_8> Ohio Columbus
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Florida Windermere
+answer:<extra_id_10><extra_id_8> California Fontana
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Minnesota New York City
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Arizona Phoenix
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Connecticut Hartford
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> California San Jose
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> California San Jose
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Arizona Phoenix
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Wisconsin Kenosha
+answer:<extra_id_10><extra_id_8> Illinois Antioch
+answer:<extra_id_10><extra_id_8> New York New York
+answer:<extra_id_10><extra_id_8> New York Fifth Avenue
+answer:<extra_id_10><extra_id_8> Minnesota Stamford
+answer:<extra_id_10><extra_id_8> Oklahoma<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Indiana Fort Wayne
+answer:<extra_id_10><extra_id_8> Florida Tampa Bay
+answer:<extra_id_10><extra_id_8> Georgia Fulton County
+answer:<extra_id_10><extra_id_8> New York Lower Manhattan
+answer:<extra_id_10><extra_id_8> Arizona Phoenix
+answer:<extra_id_10><extra_id_8> Texas San Antonio
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> North Carolina Charlotte
+answer:<extra_id_10><extra_id_8> Georgia Fulton County
+answer:<extra_id_10><extra_id_8> Minnesota New York City
+answer:<extra_id_10><extra_id_8> California San Jose
+answer:<extra_id_10><extra_id_8> Tennessee Memphis
+answer:<extra_id_10><extra_id_8> Arizona Phoenix
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> Michigan Kalamazoo
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota St Paul
+answer:<extra_id_10><extra_id_8> Florida Tampa
+answer:<extra_id_10><extra_id_8> California San Jose
+answer:<extra_id_10><extra_id_8> Colorado<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Nevada Las Vegas
+answer:<extra_id_10><extra_id_8> New Hampshire Manchester
+answer:<extra_id_10><extra_id_8> Florida Orlando
+answer:<extra_id_10><extra_id_8> Massachusetts New York City
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Florida Jacksonville
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> Wisconsin Milwaukee
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Kentucky Greenville
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> Pennsylvania Philadelphia
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania Philadelphia
+answer:<extra_id_10><extra_id_8> Pennsylvania Pittsburgh
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Georgia Minneapolis
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Ohio Akron
+answer:<extra_id_10><extra_id_8> Ohio Columbus
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_8> Tennessee Nashville
+answer:<extra_id_10><extra_id_8> Australia<extra_id_4>
+answer:<extra_id_10><extra_id_8> New South Wales<extra_id_4>
+answer:<extra_id_10><extra_id_8> Australia Brisbane
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Simi Valley
+answer:<extra_id_10><extra_id_8> North Carolina Raeford
+answer:<extra_id_10><extra_id_8> North Carolina Raeford
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> California Simi Valley
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> South Carolina Charleston
+answer:<extra_id_10><extra_id_8> North Carolina Fayetteville
+answer:<extra_id_10><extra_id_8> Michigan Detroit
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> Kansas Kansas City
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Florida Tallahassee
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Georgia Dalton
+answer:<extra_id_10><extra_id_8> California Martinez
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Harpenden
+answer:<extra_id_10><extra_id_8> New York New York
+answer:<extra_id_10><extra_id_8> Indiana Indianapolis
+answer:<extra_id_10><extra_id_8> Tennessee<extra_id_4>
+answer:<extra_id_10><extra_id_8> Utah
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> Kentucky<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Fontana
+answer:<extra_id_10><extra_id_8> Oklahoma Oklahoma City
+answer:<extra_id_10><extra_id_8> Canada Toronto
+answer:<extra_id_10><extra_id_8> Florida Miami
+answer:<extra_id_10><extra_id_8> Massachusetts Boston
+answer:<extra_id_10><extra_id_8> Australia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Missouri Springfield
+answer:<extra_id_10><extra_id_8> Kentucky Louisville
+answer:<extra_id_10><extra_id_8> Washington DC
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia Atlanta
+answer:<extra_id_10><extra_id_8> Pennsylvania Philadelphia
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> New Mexico Albuquerque
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Tennessee Gay Street
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Oakland
+answer:<extra_id_10><extra_id_8> Kentucky Louisville
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> Australia Sydney
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Florida<extra_id_4>
+answer:<extra_id_10><extra_id_8> Iowa Sioux City
+answer:<extra_id_9>
+answer:<extra_id_10><extra_id_8> Florida Lakeland
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> Florida Fort Lauderdale
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Iowa Darien
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Minnesota Duluth
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota South Minneapolis
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota St. Paul
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Minnesota Minneapolis
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Texas Houston
+answer:<extra_id_10><extra_id_8> Minnesota Washington County
+answer:<extra_id_10><extra_id_8> New York Bronx
+answer:<extra_id_10><extra_id_8> Ohio Cleveland
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8> New York New York
+answer:<extra_id_10><extra_id_8> Arkansas<extra_id_4>
+answer:<extra_id_10><extra_id_8> Oklahoma<extra_id_4>
+answer:<extra_id_10><extra_id_8> California Los Angeles
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> Tennessee Nashville
+answer:<extra_id_10><extra_id_8> Minnesota Fargo
+answer:<extra_id_10><extra_id_8> New York Brooklyn
+answer:<extra_id_10><extra_id_8> California Oakland
+answer:<extra_id_10><extra_id_8> Nevada Las Vegas
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota Twin Cities
+answer:<extra_id_10><extra_id_8> Tennessee Nashville
+answer:<extra_id_10><extra_id_8> Indiana Indianapolis
+answer:<extra_id_10><extra_id_8> Minnesota Twin Cities
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> Iowa Des Moines
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> Washington Spokane
+answer:<extra_id_10><extra_id_8> California Oakland
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado Denver
+answer:<extra_id_10><extra_id_8> Indiana downtown
+answer:<extra_id_10><extra_id_8> California San Francisco
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8> Colorado Aurora
+answer:<extra_id_10><extra_id_8> Indiana Indianapolis
+answer:<extra_id_10><extra_id_8> Minnesota Moorhead
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8> Georgia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> California Coachella Valley
+answer:<extra_id_10><extra_id_8> California Santa Ana
+answer:<extra_id_10><extra_id_8> Illinois Chicago
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Mississippi Pittsburgh
+answer:<extra_id_10><extra_id_8> Wisconsin Milwaukee
+answer:<extra_id_10><extra_id_8> Minnesota<extra_id_4>
+answer:<extra_id_10><extra_id_8> Indiana Indianapolis
+answer:<extra_id_10><extra_id_8> Washington<extra_id_4>
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Massachusetts Boston
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Australia<extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania Philly
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Pennsylvania Philadelphia
+answer:<extra_id_10><extra_id_8> New York East Meadow
+answer:<extra_id_10><extra_id_8> Texas Dallas
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> North Carolina<extra_id_4>
+answer:<extra_id_10><extra_id_8> Minnesota
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> New York New York City
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> New York Nassau County
+answer:<extra_id_10><extra_id_8> New Hampshire Chatham
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Washington Seattle
+answer:<extra_id_10><extra_id_7>
+answer:<extra_id_10><extra_id_8> Pennsylvania Fairmount
+answer:<extra_id_10><extra_id_8><extra_id_4>
+answer:<extra_id_10><extra_id_8> Australia Sydney
+answer:<extra_id_10><extra_id_8> California<extra_id_4>
+answer:<extra_id_10><extra_id_8> Montana Billings
+answer:<extra_id_10><extra_id_8> Oregon Portland
+answer:<extra_id_10><extra_id_8> California Pasadena
