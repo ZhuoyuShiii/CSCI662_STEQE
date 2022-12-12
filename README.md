@@ -1,5 +1,5 @@
-# Data:
-data: the input data for T5 is under 'data/for_t5'
+# data:
+the input data for T5 is under 'data/for_t5'
 
 
 # experiments (original & ablations):
@@ -8,7 +8,7 @@ There are 24 models trained for spatial & temporal in total: in-domain * 6, all-
 
 Preprocessing code: NAN.
 Training code: train_t5.py. There are 12 .sh files under the 'experiment' folder . Run .sh file for each 2 models (spatial & temporal). 
-Evaluation code: XXXXXXXXXXXXXXXXXX
+Evaluation code: under the 'evaluation' folder. 
 
 
 
@@ -16,8 +16,6 @@ Evaluation code: XXXXXXXXXXXXXXXXXX
 contain results of: {in-domain * 6 (spatial_blm_blm.txt, spatial_covid_covid.txt, spatial_calfire_calfire.txt, temporal_blm_blm.txt, temporal_covid_covid.txt, temporal_calfire_calfire.txt); all-domain * 6 (spatial_all_blm.txt, spatial_all_covid.txt, spatial_all_calfire.txt, temporal_all_blm.txt, temporal_all_covid.txt, temporal_all_calfire.txt) , out-domain * 12 (spatial_blm_covid.txt, spatial_blm_calfire.txt, spatial_covid_blm.txt, spatial_covid_calfire.txt, spatial_calfire_blm.txt, spatial_calfire_covid.txt, temporal_blm_covid.txt, temporal_blm_calfire.txt, temporal_covid_blm.txt, temporal_covid_calfire.txt, temporal_calfire_blm.txt, temporal_calfire_covid.txt) }
 
 
-
-ADD RESULT TABLE HERE
 
 
 # analysis 
