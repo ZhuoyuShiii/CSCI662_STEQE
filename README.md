@@ -6,7 +6,7 @@ The input data for T5 is under 'data/for_t5'
 
 There are 24 models trained for spatial & temporal in total: in-domain * 6, all-domain * 6, out-domain * 12.
 
-Preprocessing code: NAN.
+Preprocessing code: NAN. \n
 Training code: train_t5.py. There are 12 .sh files under the 'experiment' folder . Run .sh file for each 2 models (spatial & temporal). 
 Evaluation code: under the 'evaluation' folder. 
 
